@@ -1,2 +1,6 @@
+
+ // locators 
 driver.findElementBy.id
 driver.findelemntBy.class
+driver.findelemntBy.x path
+driver.findelemntBy.link
