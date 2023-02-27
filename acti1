@@ -1,5 +1,10 @@
 
  // locators 
+ 
+ 
+driver.manage().window().maximize();
+driver.manage().timeouts().implicitwaits(Duration.ofseconds(10));
+driver.get("");
 driver.findElementBy.id
 driver.findelemntBy.class
 driver.findelemntBy.x path
